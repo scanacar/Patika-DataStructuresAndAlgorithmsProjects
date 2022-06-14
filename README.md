@@ -116,3 +116,5 @@ Soluna 5 eklenir.
 3'ün soluna 2 eklenir.
 
 ![10](10.png)
+
+## [Patika.dev](https://www.patika.dev/tr)
